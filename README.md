@@ -36,13 +36,6 @@ Estudiante de **Ingeniería en Informática** con sólidos conocimientos en base
 
 ---
 
-## 🌐 Enlaces
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Sitio Web](https://img.shields.io/badge/Web-222222?style=for-the-badge&logo=About.me&logoColor=white)](https://tusitioweb.com)
-
----
-
 ## 💡 Curiosidad
 ✨ Me apasiona la **programación competitiva** y disfruto resolviendo algoritmos complejos.
 
