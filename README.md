@@ -37,13 +37,7 @@ Estudiante de **Ingeniería en Informática** con sólidos conocimientos en base
 ---
 
 ## 💡 Curiosidad
-✨ Me apasiona la **programación competitiva** y disfruto resolviendo algoritmos complejos.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinEscobr&show_icons=true&theme=radical" alt="KevinEscobr GitHub Stats" />
-</p>
+✨ Me apasiona la **programación competitiva** y **automatizaciones** .
 
 ---
 
